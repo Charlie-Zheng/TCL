@@ -127,6 +127,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
