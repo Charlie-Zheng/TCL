@@ -10,7 +10,7 @@ description: >-
 Leaked character from CBT5, all numbers subject to change and data poisoning. Credit to Honey and Dimbreath.
 {% endhint %}
 
-## ![](../../.gitbook/assets/element_cryo.png) Eula
+## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Eula
 
 ![Credits to @dimbreathjr](../../.gitbook/assets/dimbreath_temp.jpg)
 
@@ -30,14 +30,11 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
-**Normal Attack**  
+**Normal Attack**
 
+**Charged Attack**
 
-**Charged Attack**  
-
-
-**Plunge Attack**  
-
+**Plunge Attack**
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}
@@ -77,8 +74,6 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% endtab %}
 
 {% tab title="C3" %}
-
-
 
 {% endtab %}
 
@@ -164,3 +159,4 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% endtabs %}
 
 ## **External Links**
+

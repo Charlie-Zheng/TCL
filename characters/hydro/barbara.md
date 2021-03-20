@@ -6,7 +6,7 @@ description: >-
 
 # Barbara
 
-## ![](../../.gitbook/assets/element_hydro.png) Barbara
+## ![](../../.gitbook/assets/element_hydro%20%281%29.png) Barbara
 
 ![](../../.gitbook/assets/character_barbara_wish.png)
 

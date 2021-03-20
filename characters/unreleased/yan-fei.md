@@ -32,12 +32,11 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 
 {% tabs %}
 {% tab title="Seal of Approval" %}
-**Normal Attacks**  
+**Normal Attacks**
 
-**Charged Attack**  
+**Charged Attack**
 
 **Plunge**
-
 {% endtab %}
 
 {% tab title="Signed Edict" %}
@@ -109,10 +108,10 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 Seals | 129.4% | 137.05% | 144.7% | 152.34%  | 159.99% | 167.64% |
-| 1 Seal | 152.24% | 161.24% | 170.23%  | 179.23% | 188.22% | 197.22% |
-| 2 Seals | 175.08% | 185.42%  | 195.77% | 206.11%  | 216.46% | 226.8% |
-| 3 Seals | 197.91% | 209.61% | 221.3% | 233% | 244.69% | 256.39%  |
+| 0 Seals | 129.4% | 137.05% | 144.7% | 152.34% | 159.99% | 167.64% |
+| 1 Seal | 152.24% | 161.24% | 170.23% | 179.23% | 188.22% | 197.22% |
+| 2 Seals | 175.08% | 185.42% | 195.77% | 206.11% | 216.46% | 226.8% |
+| 3 Seals | 197.91% | 209.61% | 221.3% | 233% | 244.69% | 256.39% |
 | 4 Seals | 220.75% | 233.79% | 246.84% | 259.88% | 272.92% | 285.97% |
 
 **Scarlet Seal Duration**: 10s
@@ -148,3 +147,4 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% endtabs %}
 
 ## **External Links**
+

@@ -603,11 +603,11 @@ Abyss buffs: +8% crit, +15% crit damage cards:
 
 1 card
 
-\(1+\(\(.748+.08\)_\(1.809+.15\)\)\)/\(1+\(.748_1.809\)\) = 1.114 =&gt; 11.4% multiplicative increase
+\(1+\(\(.748+.08\)\_\(1.809+.15\)\)\)/\(1+\(.748\_1.809\)\) = 1.114 =&gt; 11.4% multiplicative increase
 
 2 cards:
 
-\(1+\(\(.748+.16\)_\(1.809+.3\)\)\)/\(1+\(.748_1.809\)\) = 1.239 =&gt; 23.9% multiplicative increase +40% Atk, -15% def chamber card:
+\(1+\(\(.748+.16\)\_\(1.809+.3\)\)\)/\(1+\(.748\_1.809\)\) = 1.239 =&gt; 23.9% multiplicative increase +40% Atk, -15% def chamber card:
 
 Ganyu base atk: 335+510 = 845, 40% Atk boost =&gt; 845\*.4 = 338 Atk increase
 

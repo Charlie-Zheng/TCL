@@ -6,7 +6,7 @@ description: >-
 
 # Sucrose
 
-## ![](../../.gitbook/assets/element_anemo.png)Sucrose
+## ![](../../.gitbook/assets/element_anemo%20%281%29.png)Sucrose
 
 ![](../../.gitbook/assets/character_sucrose_wish.png)
 

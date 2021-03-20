@@ -239,7 +239,7 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 ### Animation Cancels
 
 {% tabs %}
-{% tab title="TCF" %}
+
 **Thunder Clap Flash \(Patched as of 1.4, 3/11\)**
 
 {% embed url="https://imgur.com/a/cvU3lCQ" caption="E1 > N1C > D > E2" %}
@@ -250,15 +250,11 @@ Furthermore, to actively make use of this combo, it requires Keqing to be paired
 
 **TenTen's TCF Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" %}
+{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" caption="" %}
 
 **Hail's Video on How to Practice TCF**
 
-{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" %}
-{% endtab %}
-{% endtabs %}
-
-
+{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" caption="" %}
 
 ## **External Links**
 

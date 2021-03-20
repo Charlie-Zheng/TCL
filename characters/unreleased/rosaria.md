@@ -6,7 +6,7 @@ description: >-
 
 # Rosaria
 
-## ![](../../.gitbook/assets/element_cryo.png) Rosaria
+## ![](../../.gitbook/assets/element_cryo%20%281%29.png) Rosaria
 
 ![](../../.gitbook/assets/character_rosaria_wish.png)
 
@@ -26,12 +26,11 @@ description: >-
 
 {% tabs %}
 {% tab title="Spear of the Church" %}
-**Normal Attack**  
+**Normal Attack**
 
-**Charged Attack**  
+**Charged Attack**
 
-**Plunge Attack**  
-
+**Plunge Attack**
 {% endtab %}
 
 {% tab title="Ravaging Confession" %}
@@ -141,3 +140,4 @@ description: >-
 {% endtabs %}
 
 ## **External Links**
+

@@ -6,7 +6,7 @@ description: >-
 
 # Razor
 
-## ![](../../.gitbook/assets/element_electro.png) Razor
+## ![](../../.gitbook/assets/element_electro%20%281%29.png) Razor
 
 ![](../../.gitbook/assets/character_razor_wish.png)
 

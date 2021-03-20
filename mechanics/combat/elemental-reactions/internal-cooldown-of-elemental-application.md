@@ -14,5 +14,3 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md" %}
 
-
-

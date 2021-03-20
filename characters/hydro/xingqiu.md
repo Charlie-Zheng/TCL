@@ -6,7 +6,7 @@ description: >-
 
 # Xingqiu
 
-## ![](../../.gitbook/assets/element_hydro.png) Xingqiu
+## ![](../../.gitbook/assets/element_hydro%20%282%29.png) Xingqiu
 
 ![](../../.gitbook/assets/character_xingqiu_wish.png)
 

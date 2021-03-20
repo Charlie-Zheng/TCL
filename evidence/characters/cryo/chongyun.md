@@ -36,7 +36,7 @@ By: shdwbld\#8103
 
 ## **Chongyun C6 DMG bonus is Additive**
 
-By: _\*\*_Artesians\#0002
+By: \_\*\*\_Artesians\#0002
 
 **Findings:**
 
