@@ -232,7 +232,5 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 **Evidence Vault**
 
-{% page-ref page="venti.md" %}
-
-
+{% page-ref page="../../evidence/characters/anemo/venti.md" %}
 
