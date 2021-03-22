@@ -70,8 +70,8 @@ Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and laun
 
 | Effect | Talent 6% | CD | GU |
 | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s |  |
-| Hold | 532% | 15s |  |
+| Press | 386.40% | 6s | 2U |
+| Hold | 532% | 15s | 2U |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
