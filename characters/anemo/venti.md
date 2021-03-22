@@ -68,10 +68,10 @@ Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and laun
 
 * Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
-| Effect | Talent 6% | CD | GU |
-| :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 2U |
-| Hold | 532% | 15s | 2U |
+| Effect | Talent 6% | CD | GU | Particles |
+| :--- | :--- | :--- | :--- | :--- |
+| Press | 386.40% | 6s | 2U | 2~3 \(1:9\) |
+| Hold | 532% | 15s | 2U | 3~4 \(1:9\) |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
