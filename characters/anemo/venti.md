@@ -228,7 +228,7 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 ## External Links
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Venti)
-* [**Venti Mains Discord**](https://discord.gg/dkE584QFg7)
+* [**Venti Mains Discord**](https://discord.gg/ventimains)
 
 **Evidence Vault**
 
