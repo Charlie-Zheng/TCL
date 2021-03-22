@@ -45,7 +45,7 @@ A fully charged shot will deal Anemo DMG.
 | String | Talent 6% | GU | Frames | MV\s |
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% |  |  |  |
-| Fully-Charged Aimed Shot | 173.60% |  |  |  |
+| Fully-Charged Aimed Shot | 173.60% | 1U |  |  |
 
 **Plunge Damage**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
