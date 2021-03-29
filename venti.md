@@ -224,5 +224,5 @@ Overall Venti gains around 60-70% damage increase on his journey from ~~C0~~ C1 
 
 **What teams don't want to run Venti?**
 
-
+Do you run Keqing/Xingqiu/Bennett/Sucrose or other similar composition and you are looking to change your Anemo support for Venti? It wouldn't be a wise idea. Melee characters can barely hit enemies inside Venti's ult and he wants a lot of on-field time every 6 seconds to cast his elemental skill ability which lowers XQ sword hit count and your main DPS output. Not to mention sucrose EM buff which will be missed with Venti in this team. However, in case you do choose him as your Anemo support check out the next section of a guide!
 
