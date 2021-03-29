@@ -143,4 +143,5 @@
       * [Food](evidence/mechanics/equipment/food.md)
     * [Enemies](evidence/mechanics/enemies.md)
     * [Gacha](evidence/mechanics/gacha.md)
+* [Venti](venti.md)
 
