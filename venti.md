@@ -120,7 +120,7 @@ Venti doesn't necessarily starve for ER as much as this bow gives, considering h
 
 ### Talent Priority
 
-Wind's Grande Ode \(Q\) ≥ Skyward Sonnet \(E\) &gt; Divine Marksmanship \(Normal Attack\)
+**Wind's Grande Ode** \(Q\) ≥ **Skyward Sonnet** \(E\) &gt; **Divine Marksmanship** \(Normal Attack\)
 
 In the ideal scenario Venti's Q does more damage than his E in a normal rotation. However, I would advise to level them equally as both are really good and resource wise it would be a far better deal. Venti's auto attacks is nothing to be proud about, with some of the worst damage numbers among all archers, and can be left at level 1 or leveled to 6 depending on how much you actually use them.
 
