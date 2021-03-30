@@ -232,5 +232,83 @@ Do you run Keqing/Xingqiu/Bennett/Sucrose or other similar composition and you a
 
 ### **Double Anemo**
 
-\*\*\*\*
+Double Anemo fixes ER problems and allows Venti to run as many offensive stats as possible
+
+**Venti & Jean**
+
+The dream team of early stages of Genshin Impact still holds up today. Being both Anemo units with high particle rate generation, they fund each other's ultimates to the max while running minimal energy recharge. Together, the duo outputs insane amounts of damage, crowd control and healing.
+
+**Venti & Anemo MC**
+
+The idea is the same ****as Venti & Jean, but Anemo MC is a lot clunkier to use than Jean, since he/she needs to hold his/her elemental skill ability for sufficient particle regen and also lacks healing. MC has access to very valuable Anemo resistance shred but it's hard to utilize because the MC's ult tornado sucks enemies away from Venti's ult, so you need to have good timing and/or positioning to utilize him or her to full potential.
+
+**Venti & Sucrose**
+
+Particle regen wise, Sucrose is somewhat lacking but she can make up for it by giving Venti some of her Elemental Mastery. Also Sucrose's ult ensures you will never have downtime on CC.
+
+### The Random Targeting Units
+
+**Albedo and/or Ganyu**
+
+Currently we have two prominent representatives in this category: Albedo and Ganyu. Both of them feature pseudo-random targeting mechanics which allows them to triple or quadruple their damage against concentrated enemies. Nothing is more satisfying then seeing the screen flooded with damage numbers you can't make sense of.
+
+### **Turbo**
+
+> According to all known laws of elemental particle generation, there is no way Oz should be able to generate 60+ particles per minute. Its wings are too small to get its fat little body off the ground. Oz, of course, makes turbo energy anyway because Fischl doesn't care what humans think is impossible.
+
+Venti is a premier enabler for this type of team. Turbo teams allow the members to ditch ER entirely. For more information visit: 
+
+{% page-ref page="characters/electro/fischl.md" %}
+
+### Zhongli
+
+With the 1.3 changes he is a premier support unit with high ult damage, additional CC which works on big enemies that are hard to capture in Venti's ult, unbreakable shield to protect your Venti and teammates from ever taking damage. Most importantly, Zhongli's shield provides Anemo elemental resistance reduction which boosts your Venti's damage even further.
+
+### Ideal Team
+
+It depends on whatever units you have access to and your situation. Any combination of these units and others can work well with Venti, so your options are limitless.
+
+## Support Venti
+
+If you specifically want to run Venti with melee carries instead of teams more suited for him, make sure to keep your Venti at least 21 levels below the enemies. You'll be losing quite a lot in damage and even extra due to swirl scaling with levels and not having access to higher level talents, but if you only want your Venti to pull enemies together for your melee carry and VV shred, make sure to keep them at 60/70 or at most 70/80 for Abyss F12.
+
+### Artifacts
+
+Here, your prime choice for a set is 4VV due to swirl damage increase and swirled element resistance shred. Any other sets are likely to result in overall lower team damage due to Venti himself not contributing as much damage as at higher levels of investment, so the damage lost due to not running elemental shred set on him can't be made up by having better damage from Venti himself.
+
+You want to focus on running enough ER to ult off cooldown. In most teams 180% ER should do the trick, but experiment with your team or use an ER calculator to find what suits your needs. ER sands, subs and perhaps an ER weapon should be more than enough to achieve this.
+
+After you have enough ER, focus on Crit rate, Crit damage and ATK% like usual.
+
+### What about EM?
+
+EM doesn't have as much value as above mentioned stats no matter how you are running your Venti. And whenever your Venti is lower level your Swirl damage is already suffering from not having the levels to pump it up. Focus on other stats and forget about running EM sands, hats or anything of sorts.
+
+![Figure 1: Swirl as a Percentage of Venti&apos;s Total Damage](.gitbook/assets/fig1%20%281%29.png)
+
+### Weapons
+
+Everything mentioned above still stays just as relevant for a budget Venti, he is still built the same way with the same ideology. So make sure to keep the ranking of all those bows in mind! However a few bows get their value slightly nudged by being low investment and the changed ones are talked about below.
+
+**Elegy of the End**
+
+The additional 100 EM and 20% ATK buff from this rises in usefulness, as the damage loss compared to other bows for Venti himself doesn't matter as much for the goal of a budget Venti. He becomes a weird mutation of Sucrose with TTDS. BIS for this type of Venti, however you NEED to have an invested carry who can do vaporize/melt damage.
+
+**Sacrificial Bow**
+
+This bow is really nice for those in desperate need of more ER. It still has great base attack and **the** passive provides added damage with skill resets. If you just want to achieve your ER needs, slap this on your Venti and he'll be happy!
+
+**Favonius Warbow**
+
+This bow gains slightly more value if you are really starving for energy. It's still quite bad due to its abysmal base attack, and you have a better ER weapon option in the Sac bow. If you really can't reach enough ER with ER sands and substats, and you don't have a Sacrifcial Bow, this can be an option to make sure you can ult often.
+
+## Technical Information
+
+### Skill Descriptions
+
+{% page-ref page="characters/anemo/venti.md" %}
+
+
+
+
 
