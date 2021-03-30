@@ -258,7 +258,7 @@ Currently we have two prominent representatives in this category: Albedo and Gan
 
 Venti is a premier enabler for this type of team. Turbo teams allow the members to ditch ER entirely. For more information visit: 
 
-{% page-ref page="characters/electro/fischl.md#turbo" %}
+{% page-ref page="characters/electro/fischl.md#" %}
 
 ### Zhongli
 
