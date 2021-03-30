@@ -10,7 +10,7 @@ description: >-
 Leaked character from CBT5, all numbers subject to change and data poisoning. Credit to Honey and Dimbreath.
 {% endhint %}
 
-## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Eula
+## ![](../../.gitbook/assets/element_cryo%20%282%29%20%282%29.png) Eula
 
 ![Credits to @dimbreathjr](../../.gitbook/assets/dimbreath_temp.jpg)
 

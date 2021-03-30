@@ -6,7 +6,7 @@ description: >-
 
 # Diona
 
-## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Diona
+## ![](../../.gitbook/assets/element_cryo%20%282%29%20%282%29.png) Diona
 
 ![](../../.gitbook/assets/character_diona_wish.png)
 

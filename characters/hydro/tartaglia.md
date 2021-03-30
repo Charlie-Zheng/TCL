@@ -6,7 +6,7 @@ description: >-
 
 # Tartaglia
 
-## ![](../../.gitbook/assets/element_hydro.png) Tartaglia
+## ![](../../.gitbook/assets/element_hydro%20%282%29.png) Tartaglia
 
 ![](../../.gitbook/assets/character_tartaglia_wish.png)
 

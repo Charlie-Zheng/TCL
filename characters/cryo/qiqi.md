@@ -6,7 +6,7 @@ description: >-
 
 # Qiqi
 
-## ![](../../.gitbook/assets/element_cryo.png) Qiqi
+## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Qiqi
 
 ![](../../.gitbook/assets/character_qiqi_wish.png)
 

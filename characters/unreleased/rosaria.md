@@ -6,7 +6,7 @@ description: >-
 
 # Rosaria
 
-## ![](../../.gitbook/assets/element_cryo%20%281%29.png) Rosaria
+## ![](../../.gitbook/assets/element_cryo%20%282%29%20%281%29.png) Rosaria
 
 ![](../../.gitbook/assets/character_rosaria_wish.png)
 

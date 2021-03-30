@@ -53,7 +53,7 @@ Skyward Harp reigns supreme for Venti's damage output and will probably continue
 | Stringless R1 | 103.8% |
 | Sacrificial Bow R5 | 102.2% |
 | Windblume Ode R5 | 101.0% |
-| Elergy for the End  | 100.2% |
+| Elergy for the End | 100.2% |
 | Blackcliff Warbow \(0 stacks\) | 100.0% |
 | Rust/Prototype Crescent | 100.0% |
 | Favonius Warbow | 86.0% |
@@ -72,7 +72,7 @@ Technically often the 2nd/3rd best weapon choice for Venti if you happen to have
 
 **Elegy for the End**
 
-The newest 5 star addition which clearly was tailor-made with Venti in mind. The problem is that Venti himself can't take much advantage of the bow's passive as his ult snapshots and won't take into account additional ATK% from Elegy for the End's passive**.** At best only 1 of your E casts will make use of it. Combined with ER main stat, this makes Elegy for the End to do less damage than most of the 4 stars available for Venti. 
+The newest 5 star addition which clearly was tailor-made with Venti in mind. The problem is that Venti himself can't take much advantage of the bow's passive as his ult snapshots and won't take into account additional ATK% from Elegy for the End's passive**.** At best only 1 of your E casts will make use of it. Combined with ER main stat, this makes Elegy for the End to do less damage than most of the 4 stars available for Venti.
 
 On the other hand the additional 100 EM and 20% ATK are great for your main DPS carry in vaporize/melt teams and may lead to overall higher team output than you would get with Amos or even Harp, however it is whale territory and you need a hyper invested carry to pull it off.
 
@@ -106,7 +106,7 @@ The problem with the Rust is that it scales slightly worse than Stringless/ Viri
 
 **Prototype Crescent**
 
-Now on Venti this works identically to the Rust. 
+Now on Venti this works identically to the Rust.
 
 The passive is hard to utilize by average-skilled players as most people don't play Venti to do aim-shots on the weak points on the go. However, if you can do it consistently it will give a significant DPS boost. High base attack and ATK% make this bow have a pretty good damage ceiling.
 
@@ -240,7 +240,7 @@ The dream team of early stages of Genshin Impact still holds up today. Being bot
 
 **Venti & Anemo MC**
 
-The idea is the same ****as Venti & Jean, but Anemo MC is a lot clunkier to use than Jean, since he/she needs to hold his/her elemental skill ability for sufficient particle regen and also lacks healing. MC has access to very valuable Anemo resistance shred but it's hard to utilize because the MC's ult tornado sucks enemies away from Venti's ult, so you need to have good timing and/or positioning to utilize him or her to full potential.
+The idea is the same _\*\*_as Venti & Jean, but Anemo MC is a lot clunkier to use than Jean, since he/she needs to hold his/her elemental skill ability for sufficient particle regen and also lacks healing. MC has access to very valuable Anemo resistance shred but it's hard to utilize because the MC's ult tornado sucks enemies away from Venti's ult, so you need to have good timing and/or positioning to utilize him or her to full potential.
 
 **Venti & Sucrose**
 
@@ -256,9 +256,7 @@ Currently we have two prominent representatives in this category: Albedo and Gan
 
 > According to all known laws of elemental particle generation, there is no way Oz should be able to generate 60+ particles per minute. Its wings are too small to get its fat little body off the ground. Oz, of course, makes turbo energy anyway because Fischl doesn't care what humans think is impossible.
 
-Venti is a premier enabler for this type of team. Turbo teams allow the members to ditch ER entirely. For more information visit: 
-
-{% page-ref page="characters/electro/fischl.md" %}
+Venti is a premier enabler for this type of team. Turbo teams allow the members to ditch ER entirely. For more information visit the [Turbo](https://library.keqingmains.com/characters/electro/fischl#turbo) page.
 
 ### Zhongli
 
@@ -307,8 +305,4 @@ This bow gains slightly more value if you are really starving for energy. It's s
 ### Skill Descriptions
 
 {% page-ref page="characters/anemo/venti.md" %}
-
-
-
-
 

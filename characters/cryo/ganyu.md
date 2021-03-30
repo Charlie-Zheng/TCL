@@ -6,7 +6,7 @@ description: >-
 
 # Ganyu
 
-## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Ganyu
+## ![](../../.gitbook/assets/element_cryo%20%282%29%20%282%29.png) Ganyu
 
 ![](../../.gitbook/assets/character_ganyu_wish.png)
 

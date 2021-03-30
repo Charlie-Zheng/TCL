@@ -6,7 +6,7 @@ description: >-
 
 # Chongyun
 
-## ![](../../.gitbook/assets/element_cryo.png) Chongyun
+## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Chongyun
 
 ![](../../.gitbook/assets/character_chongyun_wish.png)
 

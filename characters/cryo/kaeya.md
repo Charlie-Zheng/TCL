@@ -4,7 +4,7 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 # Kaeya
 
-## ![](../../.gitbook/assets/element_cryo.png) Kaeya
+## ![](../../.gitbook/assets/element_cryo%20%282%29.png) Kaeya
 
 ![](../../.gitbook/assets/character_kaeya_wish.png)
 
