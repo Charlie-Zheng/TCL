@@ -298,7 +298,7 @@ This bow is really nice for those in desperate need of more ER. It still has gre
 
 **Favonius Warbow**
 
-This bow gains slightly more value if you are really starving for energy. It's still quite bad due to its abysmal base attack, and you have a better ER weapon option in the Sac bow. If you really can't reach enough ER with ER sands and substats, and you don't have a Sacrifcial Bow, this can be an option to make sure you can ult often.
+This bow gains slightly more value if you are really starving for energy. It's still quite bad due to its abysmal base attack, and you have a better ER weapon option in the Sac bow. If you really can't reach enough ER with ER sands and substats, and you don't have a Sacrificial Bow, this can be an option to make sure you can ult often.
 
 ## Technical Information
 
