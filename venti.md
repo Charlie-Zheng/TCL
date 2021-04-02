@@ -34,7 +34,7 @@ Editing is done by Charliex3000\#9403
 
 ## Overview
 
-All calculations below assume you have a highly invest Venti, who is a premier sub DPS on most quickswap teams. However, you can opt into other options like support Venti or even main DPS Venti \(which we do not recommend\).
+All calculations below assume you have a highly invested Venti, who is a premier sub DPS on most quickswap teams. However, you can opt into other options like support Venti or even main DPS Venti \(which we do not recommend\).
 
 ## Weapons Overview
 
