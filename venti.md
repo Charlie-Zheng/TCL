@@ -36,7 +36,85 @@ Editing is done by Charliex3000\#9403
 
 All calculations below assume you have a highly invested Venti, who is a premier sub DPS on most quickswap teams. However, you can opt into other options like support Venti or even main DPS Venti \(which we do not recommend\).
 
+There are two different types of builds for Venti: stacking EM and doing damage through swirls, or stacking ATK/CRIT to do damage through hits. Generally, the EM build is easier to build, having very strong F2P weapons as well as less dependence on rolling the correct substats on artifacts. The CRIT build has a higher ceiling but requires very high investment and teambuilding to reach the higher ceiling. 
+
+## Builds
+
+### EM
+
+The EM build focusses on dealing damage through swirls. This is achieved by building lots of EM and running the 4VV artifact set. For C0, no external buffs, and 2 targets, this build out-damages the CRIT build.
+
+Venti's ult can swirl a maximum of 7 times. So in normal circumstances, a single enemy can be hit by 14 instances of swirl damage from Venti's ult. This is because swirl has an AoE limit so that each target can only take damage from 2 swirls of the same element at a time. However, this require there 2 targets that swirl can spread from to be in Venti ult.
+
+The element that is being swirled by Venti should not be hydro, because hydro swirl does not deal AoE damage \(but still applies Wet in an AoE\). However, the Electro-charged reaction is special. Because this reaction allows 2 elements to be present on the target, both these elements will be swirled. This allows a target to take 3 swirl damage instances \(2 electro, 1 hydro\) each time Venti's ult swirls, for a total of 21 swirl damage instances from Venti's ult. Additionally, since Venti is stacking EM, his Electro-charged damage is significant.
+
+More details are covered in the [Swirl guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit#)
+
+### CRIT 
+
+The CRIT build focusses on deal damage through talent damage. This is achieved by stacking ATK and CRIT. With external buffs, single target, or high constellations, this build can out-damage the EM build.
+
+Venti's ult has up to a 1895% total MV at talent level 10, and his E hits hard with up to 496.8% MV at talent level 10. The CRIT build maximizing the damage dealt by these skills.
+
+### Comparison between EM and CRIT Builds
+
+### Talent Priority
+
+**EM build: Wind's Grande Ode** \(Q\) = **Skyward Sonnet** \(E\) = **Divine Marksmanship** \(Normal Attack\)
+
+**CRIT build: Wind's Grande Ode** \(Q\) ≥ **Skyward Sonnet** \(E\) &gt; **Divine Marksmanship** \(Normal Attack\)
+
+In the EM build, levels are far more important than talent levels, since the majority of damage is dealt via swirl reactions, which only scale off levels and EM, not talent levels.
+
+In the CRIT build, Venti's Q does more damage than his E in a normal rotation. However, I would advise to level them equally as both are really good and resource wise it would be a far better deal. Venti's auto attacks is nothing to be proud about, with some of the worst damage numbers among all archers, and can be left at level 1 or leveled to 6 depending on how much you actually use them.
+
+### Artifact Sets
+
+**4 Piece Viridescent Venerer \(4VV\)**
+
+4VV is the optimal set for Venti. It boosts a teammates damage nicely and it's also the highest damage option for Venti alone, since it buffs swirl damage greatly through both the resistance shred and the +60% swirl damage. Even when running a CRIT build instead of an EM build, the boost to swirl damage and the infusion damage is significant enough that this is the most optimal set for damage.
+
+However 4 sets can be hard to get good substats in. If your substats for 4VV are very awful, and the infused element damage isn't a big deal for your teams, the below options are good choices to go for as well!
+
+**2 Piece Viridescent Venerer 2 Piece Noblesse Oblige \(2VV2NO\)**
+
+2VV2NO is an option for CRIT Venti. This build seeks to increase the damage dealt by Venti's ult. However, due to the 2NO bonus being additive with goblet and 2VV as well as Stringless, most of the time this will not be better than 4VV's +60% to swirl damage and 30% resistance shred. 
+
+However the differences aren't huge. So if your teams don't use 4VV set bonus much and this gives you better substats, it's a very good option to go for.
+
+**Note**
+
+If your teams don't use elemental resistance reduction from 4VV, you should also consider just running 2 set bonus and 3 offset pieces with the best substats. Often subs matter more than another 2 set bonus.
+
+### Artifact Stats
+
+**Main Stats**
+
+The best overall stats you should use are ATK%/Anemo/CR\(CD\). But keep in mind that having your ult to be up on cd should be your first priority. If you can't achieve it, it might be reasonable to run either ER sands with ATK% based weapon or an ER weapon instead. However, it is recommended to get ER from substats, which combined with ascension bonus, should provide you with enough energy recharge.
+
+**How much ER do you need?**
+
+Until you can ult off cooldown, ER has high priority. Ideally this would be around 170-180% ER, but it depnds on the rest of your team.
+
+Venti gain ER as an ascension stat and has 132% base ER at ascension phase 6. Also, his phase 5 passive talent refunds 15 energy at the end of his ult. If Venti is level 80/90, you can only need around 40% ER from artifacts and weapons combined.
+
+**Substats**
+
+You are mostly looking for:
+
+1. CR or CD
+2. ATK%
+3. ER%
+
+You can check the following sheet to see what substats you should aim for:
+
+[What stats you should aim for, for each each at different gearing stages](https://docs.google.com/spreadsheets/d/1Z5UEfzhPpEyb_0ehjGj6z9W9oiQTr_bMcNL67XNvXW0/edit)
+
 ## Weapons Overview
+
+### Relative Damage for EM build
+
+### Relative Damage for CRIT build
 
 ### TLDR;
 
@@ -116,55 +194,7 @@ If you don't want to go for Viridescent/Blackcliff and don't have Stringless thi
 
 Venti doesn't necessarily starve for ER as much as this bow gives, considering his ult refunds 15 energy upon use and his ascension stat already being ER. Has way less potential on well built Venti and teams than other weapon options. If your Venti is poorly built and you just wanna be throwing ults out for other carries, this is an option.
 
-## Builds
-
-### Talent Priority
-
-**Wind's Grande Ode** \(Q\) ≥ **Skyward Sonnet** \(E\) &gt; **Divine Marksmanship** \(Normal Attack\)
-
-In the ideal scenario Venti's Q does more damage than his E in a normal rotation. However, I would advise to level them equally as both are really good and resource wise it would be a far better deal. Venti's auto attacks is nothing to be proud about, with some of the worst damage numbers among all archers, and can be left at level 1 or leveled to 6 depending on how much you actually use them.
-
-### Artifact Sets
-
-**4 Piece Viridescent Venerer \(4VV\)**
-
-4VV is the easy go**-**to set for Venti. It boosts a teammates damage nicely and it's also the highest damage option for Venti alone, since it buffs swirl damage greatly and swirl damage still makes up a good chunk of your ult damage.
-
-However 4 sets can be hard to get good substats in. If your substats for 4VV are very awful, and the infused element damage isn't a big deal for your teams, the below options are good choices to go for as well!
-
-**2 Piece Viridescent Venerer 2 Piece Noblesse Oblige \(2VV2NO\)**
-
-Now a lot of people might think this is the best option for Venti damage. But due to the 2NO bonus being additive with goblet and 2VV while the swirl damage from 4VV is just a flat 65% increase to a good chunk of Ventis ult damage, most of the time it isn't.
-
-However the differences aren't huge. So if your teams don't use 4VV set bonus much and this gives you better substats, it's a very good option to go for.
-
-**Note**
-
-If your teams don't use elemental resistance reduction from 4VV, you should also consider just running 2 set bonus and 3 offset pieces with the best substats. Often subs matter more than another 2 set bonus.
-
-### Artifact Stats
-
-**Main Stats**
-
-The best overall stats you should use are ATK%/Anemo/CR\(CD\). But keep in mind that having your ult to be up on cd should be your first priority. If you can't achieve it, it might be reasonable to run either ER sands with ATK% based weapon or an ER weapon instead. However, it is recommended to get ER from substats, which combined with ascension bonus, should provide you with enough energy recharge.
-
-**How much ER do you need?**
-
-Until you can ult off cooldown, ER has high priority. Ideally this would be around 170-180% ER, but it depnds on the rest of your team.
-
-Venti gain ER as an ascension stat and has 132% base ER at ascension phase 6. Also, his phase 5 passive talent refunds 15 energy at the end of his ult. If Venti is level 80/90, you can only need around 40% ER from artifacts and weapons combined.
-
-**Substats**
-
-You are mostly looking for:
-
-1. CR or CD
-2. ATK%
-3. ER%
-
-You can check the following sheet to see what substats you should aim for:
-
-[What stats you should aim for, for each each at different gearing stages](https://docs.google.com/spreadsheets/d/1Z5UEfzhPpEyb_0ehjGj6z9W9oiQTr_bMcNL67XNvXW0/edit)
+## 
 
 ## Constellations
 
@@ -276,7 +306,7 @@ Here, your prime choice for a set is 4VV due to swirl damage increase and swirle
 
 You want to focus on running enough ER to ult off cooldown. In most teams 180% ER should do the trick, but experiment with your team or use an ER calculator to find what suits your needs. ER sands, subs and perhaps an ER weapon should be more than enough to achieve this.
 
-After you have enough ER, focus on Crit rate, Crit damage and ATK% like usual.
+After you have enough ER, focus on CRIT rate, CRIT damage and ATK% like usual.
 
 ### What about EM?
 
